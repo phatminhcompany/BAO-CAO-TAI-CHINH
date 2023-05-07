@@ -1,14 +1,4 @@
 # BAO-CAO-TAI-CHINH
-# 2019
-![KQ BCTC 2019](https://user-images.githubusercontent.com/113705782/203551383-2a62e0a4-788b-4f61-bf8d-22082f34ec9e.jpg)
-![BCTC 2019 KQHDSXKD_TT200_B02-0001](https://user-images.githubusercontent.com/113705782/203551477-e1dc0d64-1970-4b0d-9a9b-d43ac5a3d64d.jpg)
-![BCTC 2019 KQHDSXKD_TT200_B02-0002](https://user-images.githubusercontent.com/113705782/203551496-0fe199dc-b810-41b1-8c64-5c00ff136543.jpg)
-![BCTC 2019 LCTT_TT200_B03_01-0001](https://user-images.githubusercontent.com/113705782/203551505-8bc408fd-a52d-400c-a816-74707a3fa4cc.jpg)
-![BCTC 2019 LCTT_TT200_B03_01-0002](https://user-images.githubusercontent.com/113705782/203551514-b50e21de-11ea-46cc-a5fb-86ee3625f242.jpg)
-![BCTC 2019_TT200_B01-0001](https://user-images.githubusercontent.com/113705782/203551518-a14f1ffa-1926-450a-b204-1dc6db3fa738.jpg)
-![BCTC 2019_TT200_B01-0002](https://user-images.githubusercontent.com/113705782/203551528-fb739de3-b4fb-4bf5-b3d4-75a97ad1e3c1.jpg)
-![BCTC 2019_TT200_B01-0003](https://user-images.githubusercontent.com/113705782/203551549-b3230363-78c5-472c-9cc4-dfa00ed8b847.jpg)
-![BCTC 2019_TT200_B01-0004](https://user-images.githubusercontent.com/113705782/203551567-11ce1c39-b2e4-47e3-8ccc-f5e0cfbf2db3.jpg)
 # 2020
 ![KQ BCTC 2020](https://user-images.githubusercontent.com/113705782/203551788-645cb247-120b-4b82-80c3-9c5f03f431d5.jpg)
 ![BCTC KQSDKD_TT200_B02-0001](https://user-images.githubusercontent.com/113705782/203551747-6ee689dc-f8e4-44c0-a5bb-261aa0db3b4f.jpg)
@@ -31,6 +21,15 @@
 ![BCTC_TT200_B01-0002](https://user-images.githubusercontent.com/113705782/203555819-b171eb8d-506a-4068-9a3c-300181e1ebce.jpg)
 ![BCTC_TT200_B01-0003](https://user-images.githubusercontent.com/113705782/203555822-7aa20be3-d9aa-40df-b19c-49545198b96e.jpg)
 ![BCTC_TT200_B01-0004](https://user-images.githubusercontent.com/113705782/203555831-a4229843-2111-4118-9f6e-af9f82f30787.jpg)
-
+# 2022
+![2 0 4 2022AKQ BCTC_TT200_B01](https://user-images.githubusercontent.com/113705782/236673401-49d7fa59-5e7e-403f-b332-f32aee616e82.jpg)
+![2 0 4 2022BCTC KQHDSXKD_TT200_B02-0001](https://user-images.githubusercontent.com/113705782/236673405-e32781c4-3fe5-492d-892f-d42495aecc86.jpg)
+![2 0 4 2022BCTC KQHDSXKD_TT200_B02-0002](https://user-images.githubusercontent.com/113705782/236673407-42f583c8-9d40-4a12-bcd9-f62bca2f0473.jpg)
+![2 0 4 2022BCTC LCTT_TT200_B03_01-0001](https://user-images.githubusercontent.com/113705782/236673408-56c80fc8-f3c2-4993-b1a7-39f10432c1f8.jpg)
+![2 0 4 2022BCTC LCTT_TT200_B03_01-0002](https://user-images.githubusercontent.com/113705782/236673411-fecdb35d-51da-4249-908a-a18e3433f2c9.jpg)
+![2 0 4 2022BCTC_TT200_B01-0001](https://user-images.githubusercontent.com/113705782/236673412-a8b44f51-d4e0-4e7e-a72e-cfbca2f4e183.jpg)
+![2 0 4 2022BCTC_TT200_B01-0002](https://user-images.githubusercontent.com/113705782/236673415-3ff43116-7ac8-4022-8de5-de1655763f43.jpg)
+![2 0 4 2022BCTC_TT200_B01-0003](https://user-images.githubusercontent.com/113705782/236673418-e5e8cf8d-c8ee-4ffd-9829-4dbce2fcc423.jpg)
+![2 0 4 2022BCTC_TT200_B01-0004](https://user-images.githubusercontent.com/113705782/236673420-9e1d15cb-71b6-46f7-8a06-5ae5ad0bb7a0.jpg)
 
 
